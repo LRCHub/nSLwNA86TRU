@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "BANG YOU グラビティ",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2026-01-03T06:07:47.669065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bang Bang You",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/01_Bang_Bang_You_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "May We Bang You",
+      "artist": "Parliament",
+      "has_synced": true,
+      "path": "select/02_May_We_Bang_You_Parliament.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bang Bang You",
+      "artist": "KISS",
+      "has_synced": true,
+      "path": "select/03_Bang_Bang_You_KISS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BANG YOU Gravity",
+      "artist": "Mira-Cra Park！",
+      "has_synced": true,
+      "path": "select/04_BANG_YOU_Gravity_Mira-Cra_Park!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chitty Chitty Bang Bang : You Two",
+      "artist": "Michael Ball",
+      "has_synced": true,
+      "path": "select/05_Chitty_Chitty_Bang_Bang___You_Two_Michael_Ball.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bang Bang You",
+      "artist": "Kiss",
+      "has_synced": false,
+      "path": "select/06_Bang_Bang_You_Kiss.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "May We Bang You?",
+      "artist": "Parliament",
+      "has_synced": true,
+      "path": "select/07_May_We_Bang_You_Parliament.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BANG YOU グラビティ",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_BANG_YOU_グラビティ_みらくらぱーく!.txt"
+    }
+  ]
+}
